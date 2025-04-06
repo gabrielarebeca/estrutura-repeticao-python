@@ -1,4 +1,4 @@
-# Desafio de Estruturas em Python
+# Estruturas de Repetição em Python
 
 Este repositório contém soluções para desafios relacionados a estruturas de controle e repetição em Python.
 
